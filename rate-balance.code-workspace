@@ -1,0 +1,4 @@
+git remote add origin https://github.com/Jalal-Alali/rate-balance.git
+git branch -M main
+git push -u origin main
+
