@@ -1,0 +1,23 @@
+Author: "Jalal Alali"
+MSc. of Petroleum Engineering from NTNU (2023)
+
+These code scripts and ECLIPSE input decks are developed as a part of the "Rate Balance Optimization Between Multiple
+Injectors in The Aurora Storage Site", published by Jalal Alali, July 2023.
+
+Link to the Master's of Science Thesis:
+...
+
+The main code is "NPV_Final.py" code.
+It uses "CO2_interpolation.py" and "Water_interpolation.py" as the sidecodes.
+The adjustable '.DATA' file should be located in the same directory as "NPV_Final.py" with these adjustments.
+However, it could be changed!
+The Static data files should be put in the "INCLUDE" folder.
+
+Instructions:
+Open the "NPV_Final.py" script.
+Put the name of the '.DATA' file in the script.
+Put the name of the wells in the script.
+Choose the pattern of the desired injection rates and the loop numbers.
+Adjust the desired Scenario Cluster name.
+Run it! and debug the probable failures.
+
